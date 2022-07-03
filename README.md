@@ -1,2 +1,1 @@
-# sme-accounting-dapp
-Ubuntu SME Accounting DApp
+# Ubuntu SME Accounting DApp
